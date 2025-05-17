@@ -1,0 +1,31 @@
+[17-May-2025 08:40:53 Europe/Berlin] Received input: {"playlistName":"kxaXMCLK","trackCount":5,"artists":["dUKI"]}
+[17-May-2025 08:40:53 Europe/Berlin] PHP Fatal error:  Cannot redeclare makeSpotifyRequest() (previously declared in C:\xampp\htdocs\spotify-playlist\create_playlist.php:19) in C:\xampp\htdocs\spotify-playlist\spotify_api.php on line 3
+[17-May-2025 08:41:40 Europe/Berlin] Received input: {"playlistName":"IOIOIO","trackCount":5,"artists":["Duki"]}
+[17-May-2025 08:41:40 Europe/Berlin] PHP Fatal error:  Cannot redeclare makeSpotifyRequest() (previously declared in C:\xampp\htdocs\spotify-playlist\create_playlist.php:19) in C:\xampp\htdocs\spotify-playlist\spotify_api.php on line 3
+[17-May-2025 08:43:47 Europe/Berlin] Received input: {"playlistName":"ioioi","trackCount":5,"artists":["duki"]}
+[17-May-2025 08:44:02 Europe/Berlin] Received input: {"playlistName":"ioioi","trackCount":5,"artists":["duki","acdc"]}
+[17-May-2025 08:46:21 Europe/Berlin] Received input: {"playlistName":"iop","trackCount":5,"artists":["duki","ysy a","ac dc"]}
+[17-May-2025 08:51:57 Europe/Berlin] Received input: {"playlistName":"tuki","trackCount":10,"artists":["Duki","YSY A","Neo pistea"]}
+[17-May-2025 08:57:52 Europe/Berlin] Received input: {"playlistName":"tuntun","trackCount":10,"artists":["duki","acdc"]}
+[17-May-2025 08:57:52 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\spotify-playlist\config.php on line 3
+[17-May-2025 08:57:52 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\spotify-playlist\config.php on line 4
+[17-May-2025 08:57:52 Europe/Berlin] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in C:\xampp\htdocs\spotify-playlist\config.php on line 5
+[17-May-2025 08:57:52 Europe/Berlin] PHP Error found: Array
+(
+    [type] => 2
+    [message] => session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active
+    [file] => C:\xampp\htdocs\spotify-playlist\config.php
+    [line] => 5
+)
+
+[17-May-2025 08:57:52 Europe/Berlin] Error: Internal PHP Error
+[17-May-2025 08:59:29 Europe/Berlin] Received input: {"playlistName":"jijiji","trackCount":10,"artists":["Duki","Arcangel"]}
+[17-May-2025 09:03:46 Europe/Berlin] Received input: {"playlistName":"jijiji","trackCount":5,"artists":["duki","ysy a","wos"]}
+[17-May-2025 09:05:27 Europe/Berlin] Received input: {"playlistName":"jijiji","trackCount":5,"artists":["duki","wos","ysy a"]}
+[17-May-2025 09:14:10 Europe/Berlin] Received input: {"playlistName":"jijijij","trackCount":5,"artists":["duki","ysy a"]}
+[17-May-2025 09:17:59 Europe/Berlin] Received input: {"playlistName":"jijiji","trackCount":5,"artists":["duki","ysy a"]}
+[17-May-2025 09:20:47 Europe/Berlin] Received input: {"playlistName":"jujuju","trackCount":10,"artists":["duki","jahckal","toledo"]}
+[17-May-2025 09:23:46 Europe/Berlin] Received input: {"playlistName":"jujuju","trackCount":3,"artists":["duki","jahckal","toledo"]}
+[17-May-2025 09:27:27 Europe/Berlin] Received input: {"playlistName":"jujuju","trackCount":3,"artists":["los garbanzos","toledo","los rabanes"]}
+[17-May-2025 09:30:41 Europe/Berlin] Received input: {"playlistName":"Nacional","trackCount":5,"artists":["D carter","Toledo","Tapon","Jahckal"]}
+[17-May-2025 09:33:07 Europe/Berlin] Received input: {"playlistName":"tuntunf","trackCount":5,"artists":["homer","acdc","gaviota","mekatelyu"]}
